@@ -7,7 +7,11 @@ The `package.json` can install an HTTP server, just do:
 
     npm install
 
-Download [`theloop.2.rom`](https://github.com/kervinck/gigatron-rom/raw/master/theloop.2.rom) into the `src` directory.
+Pick and download a [`*.rom`](https://github.com/kervinck/gigatron-rom/) file into the `src/` directory and rename it as `gigatron.rom`
+
+Direct links:
+[`ROM v1`](https://github.com/kervinck/gigatron-rom/raw/master/ROMv1.rom)
+[`ROM v2`](https://github.com/kervinck/gigatron-rom/raw/master/ROMv2.rom)
 
 Start the HTTP server
 
@@ -19,4 +23,4 @@ Use the cursor keys for the D-pad.
 
 ## GT1 Files
 
-GT1 files can be loaded by starting the `Loader` and dropping a `.gt1` file onto the VGA display from File Explorer or Finder.
+GT1 files can be loaded by dropping a `.gt1` file onto the VGA display from File Explorer or Finder.
